@@ -1,5 +1,10 @@
 # Hello, I´m Ibrahim
-From Automotive Engineer to Azure Solutions Architect
+
+I would like this outlines my complete transformation from Automotive Engineering
+to Cloud Architecture, focusing on Azure infrastructure, security, and No-Code integration. It
+covers stages, certifications, deliverables, and resources necessary to build a professional portfolio
+and secure a top-tier cloud role.
+
 
 # Azure Solutions Architect – Complete Study Repository
 
